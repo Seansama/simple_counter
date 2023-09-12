@@ -1,14 +1,13 @@
 <script>
   import Counter from './lib/Counter.svelte'
+  import Header from "./lib/Header.svelte";
+  import 'bootstrap/dist/css/bootstrap.min.css';
 </script>
 
+
 <main>
-  <div class="card">
+  <Header />
+  <div>
     <Counter />
   </div>
-
 </main>
-
-<style>
-
-</style>
