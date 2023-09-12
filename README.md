@@ -10,7 +10,7 @@ A simple count up and count down app implemented in svelte.
 
 ## Live link
 
-You can access the hosted version of this project here: SimpleCounter
+You can access the hosted version of this project here: [SimpleCounter](https://simple-counter-blush.vercel.app/)
 
 
 _This project has been done by:_
